@@ -1,3 +1,5 @@
+package dataStructures;
+
 public class AVLTree<T> {
 
     class AVLNode<Y> {
@@ -123,7 +125,7 @@ public class AVLTree<T> {
             if (node.data.equals(data)) {
                 return true;
             } else {
-                if((searchInTree(node.left, data)) ||(searchInTree(node.right, data))) {
+                if ((searchInTree(node.left, data)) || (searchInTree(node.right, data))) {
                     return true;
                 }
             }
@@ -142,7 +144,7 @@ public class AVLTree<T> {
                 node.data = null;
                 System.out.println("Data deleted!");
             } else {
-                if((searchInTree(node.left, data)) ||(searchInTree(node.right, data))) {
+                if ((searchInTree(node.left, data)) || (searchInTree(node.right, data))) {
                     node.data = null;
                     System.out.println("Data deleted!");
                 }
