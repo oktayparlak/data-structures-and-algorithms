@@ -26,10 +26,10 @@ Here are some of the data structures included in this repository:
 - Linked List
 - Stack
 - Queue
-- Binary Tree
-- Binary Search Tree
-- Heap
-- Graph
+- Binary Tree(Coming Soon)
+- Binary Search Tree(Coming Soon)
+- Heap(Coming Soon)
+- Graph(Coming Soon)
 
 Feel free to explore the individual folders to find the data structure you're interested in.
 
@@ -41,12 +41,12 @@ Some of the algorithms included in this repository are:
 
 - Bubble Sort
 - Insertion Sort
-- Merge Sort
-- Quick Sort
-- Binary Search
-- Depth-First Search (DFS)
-- Breadth-First Search (BFS)
-- Dijkstra's Algorithm
+- Selection Sort
+- Quick Sort(Coming Soon)
+- Binary Search(Coming Soon)
+- Depth-First Search (DFS)(Coming Soon)
+- Breadth-First Search (BFS)(Coming Soon)
+- Dijkstra's Algorithm(Coming Soon)
 
 You can navigate to the individual algorithm folders to find the implementation in your preferred programming language.
 
