@@ -42,7 +42,7 @@ Some of the algorithms included in this repository are:
 - Bubble Sort
 - Insertion Sort
 - Selection Sort
-- Quick Sort(Coming Soon)
+- Quick Sort
 - Binary Search(Coming Soon)
 - Depth-First Search (DFS)(Coming Soon)
 - Breadth-First Search (BFS)(Coming Soon)
